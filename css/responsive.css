@@ -1,0 +1,14 @@
+/* for Smartphone*/
+@media all and (max-width: 670px) {
+    .vector {
+        width: 100%;
+    }
+}
+
+
+/*for tablet*/
+@media all and (max-width: 1000px) {
+    .vector {
+        width: 50%;
+    }
+}

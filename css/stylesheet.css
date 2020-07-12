@@ -1,0 +1,418 @@
+
+
+body {
+    position: absolute;
+    width: 1000px;
+    height: 2700px;
+    background: #ffffff;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.logo {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 650px;
+    top: 70px;
+
+}
+
+.nav-bar h1 {
+    position: absolute;
+    width: 650px;
+    height: 47px;
+    left: 400px;
+    top: 212px;
+    font-size: 40px;
+
+}
+
+.nav-bar p {
+    position: absolute;
+    width: 574px;
+    height: 42px;
+    left: 430px;
+    top: 275px;
+    font-size: 18px;
+    color: #9eabb2;
+}
+
+.ios {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 500px;
+    top: 367px;
+    background: #71c763;
+    border-radius: 40px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.mac {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 730px;
+    top: 367px;
+    background: #5e74e5;
+    border-radius: 40px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 50px;
+    
+}
+
+.container h1 {
+    position: absolute;
+    width: 500px;
+    top: 430px;
+    left: 515px;
+}
+
+.container p {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 490px;
+    left: 410px;
+    color: #9eabb2;
+}
+
+.computer {
+    position: absolute;
+    width: 532px;
+    height: 422px;
+    top: 600px;
+    left: -32px; 
+}
+
+.quick h3 {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 620px;
+    left: 600px;
+}
+
+.quick p {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 650px;
+    left: 600px;
+    color: #9eabb2;
+}
+
+.cloud h3 {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 720px;
+    left: 600px;
+}
+
+.cloud p {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 750px;
+    left: 600px;
+    color: #9eabb2;
+}
+
+.history h3 {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 820px;
+    left: 600px;
+}
+
+.history p {
+    position: absolute;
+    width: 655px;
+    height: 63px;
+    top: 850px;
+    left: 600px;
+    color: #9eabb2;
+}
+
+.container-2 h2 {
+    position: absolute;
+    width: 500px;
+    top: 1100px;
+    left: 515px;
+    font-size: 36px;
+}
+
+.container-2 p {
+    position: absolute;
+    width: 647px;
+    top: 1160px;
+    left: 460px;
+    font-size: 18px;
+    color: #9eabb2;
+}
+
+.device {
+    position: absolute;
+    width: 655px;
+    height: 422px;
+    top: 1424px;
+    left: 374px;
+}
+
+.container-3 h2 {
+    position: absolute;
+    width: 500px;
+    top: 1850px;
+    left: 470px;
+    font-size: 36px;
+}
+
+.container-3 p {
+    position: absolute;
+    width: 647px;
+    top: 1915px;
+    left: 500px;
+    font-size: 20px;
+    color: #9eabb2;
+}
+
+.blacklist {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 2070px;
+    left: 250px;
+}
+
+.text {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 2070px;
+    left: 680px;
+}
+
+.preview {
+    position: absolute;
+    width: 55px;
+    height: 40px;
+    top: 2070px;
+    left: 1100px;
+}
+
+.create h4 {
+    position: absolute;
+    width: 200px;
+    top: 2125px;
+    left: 200px;
+    font-size: 20px;
+}
+
+.create p {
+    position: absolute;
+    width: 400px;
+    top: 2170px;
+    left: 100px;
+    font-size: 16px;
+    color: #9eabb2;
+}
+
+.plain h4 {
+    position: absolute;
+    width: 200px;
+    top: 2125px;
+    left: 623px;
+    font-size: 20px;
+}
+
+.plain p {
+    position: absolute;
+    width: 400px;
+    top: 2170px;
+    left: 540px;
+    font-size: 16px;
+    color: #9eabb2;
+}
+
+.sneak h4 {
+    position: absolute;
+    width: 180px;
+    top: 2125px;
+    left: 1060px;
+    font-size: 20px;
+}
+
+.sneak p {
+    position: absolute;
+    width: 400px;
+    top: 2170px;
+    left: 950px;
+    font-size: 16px;
+    color: #9eabb2;
+}
+
+.google {
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    top: 2400px;
+    left: 88px; 
+}
+
+.ibm {
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    top: 2400px;
+    left: 318px; 
+}
+
+.microsoft {
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    top: 2400px;
+    left: 558px; 
+}
+
+.hp {
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    top: 2400px;
+    left: 828px; 
+}
+
+.vector {
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    top: 2400px;
+    left: 1068px; 
+}
+
+.container-5 h2 {
+    position: absolute;
+    width: 470px;
+    top: 2500px;
+    left: 470px;
+    font-size: 30px;
+}
+
+.container-5 p {
+    position: absolute;
+    width: 550px;
+    top: 2550px;
+    left: 410px;
+    font-size: 20px;
+    color: #9eabb2;
+}
+
+.ios-1 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 500px;
+    top: 2650px;
+    background: #71c763;
+    border-radius: 40px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+.mac-1 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 730px;
+    top: 2650px;
+    background: #5e74e5;
+    border-radius: 40px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 50px;
+    
+}
+
+.desktop {
+    position: absolute;
+    width: 1500px;
+    height:170px;
+    left: 0px;
+    top: 2800px; 
+}
+
+.log {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 85px;
+    top: 2830px;
+}
+
+.twitter {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1070px;
+    top: 2880px;
+}
+
+.facebook {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1140px;
+    top: 2880px;
+}
+
+.ig {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1200px;
+    top: 2880px;
+}
+
+.faq {
+    position: absolute;
+    width: 100px;
+    height: 24px;
+    left: 400px;
+    top: 2860px;
+}
+
+.guide {
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    left: 800px;
+    top: 2860px; 
+}
+
+.policy { 
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    left: 600px;
+    top: 2860px;
+}
+
+.attack {
+    position: absolute;
+    width: 940px;
+    height: 24px;
+    left: 250px;
+    top: 2920px;
+}
